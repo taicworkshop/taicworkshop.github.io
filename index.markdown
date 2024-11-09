@@ -4,8 +4,8 @@
 
 layout: home
 --- 
-# Trustworthy AI for Cybersecurity (TAIC) Workshop: Co-located with ITASEC25 - Bologna 3-8 February 2025
-{% include figure.html img="cover.webp" alt="intro image here" caption="Panoramic view of Bologna" width="75%" %}
+# Trustworthy AI for Cybersecurity (TAIC) Workshop 
+# Co-located with ITASEC25 - Bologna 3-8 February 2025
 
 # Workshop Abstract  
 Artificial Intelligence (AI) has now become a well-established technology in cybersecurity applications. In this scenario, the use of AI and Machine Learning (ML) techniques aims to foster the security of existing tools by operating as a core or additional mechanism to prevent and detect threats, revolutionizing key areas such as vulnerability and malware detection. As cyber threats grow increasingly sophisticated and complex, the cybersecurity landscape demands innovative solutions. AI-driven approaches offer the automation and intelligence necessary to stay ahead of evolving attacks and novel threats, providing a crucial line of defense in our rapidly changing digital ecosystem.
