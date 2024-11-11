@@ -2,11 +2,16 @@
 layout: page
 title: Call For Papers
 permalink: /CFP/
+nav: true
 ---
+<img src="{{ '/images/bologna.jpg' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
 
 ## Important Dates
 
-TBD
+* December 9, 2024: Deadline for Workshop Paper Submission
+* January 3, 2025: Author Notification
+* February 3-8, 2025: Conference (TAIC workshop day yet to be decided)
+* February 20, 2025: Camera-ready deadline
 
 ## Topics of Interest
 
@@ -29,10 +34,24 @@ Topics of interest include (but are not limited to):
 * Automated generation of security tests
 * Automated exploit generation
 
-## Submission Template
+## Submission Guidelines
 
-TBD
+Papers must be in English, formatted in pdf according to the ITASEC conference template (Easychair style: [https://easychair.org/publications/for_authors](https://easychair.org/publications/for_authors)) and comprised between 5 and 7 pages, excluding bibliography. This workshop has no official proceedings, so we will also accept submissions that have been published elsewhere, provided that this is clearly acknowledged in the submission (e.g., with a footnote on the first page reporting the full reference), and that the submission is adapted according to the given template and page limits. 
 
-## Submission Website
+## Submission Website 
+Submission Link: [https://easychair.org/conferences/?conf=taic25](https://easychair.org/conferences/?conf=taic25)
+ 
 
-TBD
+## Workshop Chairs  
+Giorgio Piras (University of Cagliari, Italy)<br>
+Emanuele Iannone (Hamburg University of Technology, Germany)<br> 
+Maura Pintor (University of Cagliari, Italy)<br>
+Katja Tuma (Vrije Universiteit, Netherlands)<br>
+Battista Biggio (University of Cagliari, Italy)<br>
+Fabio Massacci (University of Trento, Italy; Vrije Universiteit, Netherlands)<br> 
+
+For any question, or info, please contact Giorgio Piras at: [giorgio.piras@unica.it](mailto:giorgio.piras@unica.it)
+
+## Program Committee
+
+To be announced soon.
