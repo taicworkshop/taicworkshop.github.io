@@ -88,4 +88,5 @@ This workshop has been organized in the frame of the Sec4AI4Sec European project
   <img src="{{ '/images/sec4ai4sec-eu.png' | relative_url }}" alt="Centered Image" style="width: 80%; height: auto;"><br>
   <p style="margin-top: 10px;">Find out more about the Sec4Ai4Sec project in the <a href="https://www.sec4ai4sec-project.eu/" target="_blank">official webpage</a>.</p>
 </div>
+<p style="text-align:center;">Grant Agreement No 101120393</p>
 
