@@ -1,14 +1,18 @@
 <footer class="site-footer">
   <div class="wrapper">
-    <div class="footer-col-wrapper" >
-    <div class="footer-nav">
-        {% for lesson in site.pages %}
-          {% if lesson.nav == true %}
-          <a class="page-link{% if page.url == lesson.url %} active{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title | escape }}</a>
-          {% endif %}
-        {% endfor %}
+    <div class="footer-col-wrapper" style="display: flex; align-items: center; text-align: left; width: 100%;">
+
+      <!-- Acknowledgment Section on the Left, occupying 50% of the width -->
+      <div class="footer-acknowledgment" style="flex: 1; padding-right: 20px;">
+        <h2>Acknowledgment</h2>
+        <p><span style="font-size: 0.7em; font-style: italic;">This workshop has been organized in the frame of the Sec4AI4Sec European project, that aims to create a range of cutting-edge technologies, open-source tools, and new methodologies for designing and certifying secure AI-enhanced systems and AI-enhanced systems for security. Additionally, it will provide reference benchmarks that can be utilised to standardise the evaluation of research outcomes within the secure software research community. Grant Agreement No 101120393.</span></p>
+      </div>
+
+      <!-- Logo Image on the Right, also 50% of the width -->
+      <div class="footer-logo" style="flex: 1; display: flex; justify-content: center; align-items: center;">
+        <img src="{{ '/images/sec4ai4sec-eu.png' | relative_url }}" alt="SEC4AI4SEC Logo" style="max-width: 100%; height: auto;">
+      </div>
+
     </div>
-    </div>
-      <h2 class="footer-heading"><a href="{{ '/' | relative_url }}">{{ site.title | escape }}</a> - <a href="https://creativecommons.org/licenses/by-sa/4.0/">cc-by-sa</a> <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> - {{ site.pub_year }}.</h2> 
   </div>
 </footer>

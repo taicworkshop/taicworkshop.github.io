@@ -2,7 +2,10 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <!-- Replace the text title with an image -->
+    <a class="site-logo" href="{{ '/' | relative_url }}">
+      <img src="{{ '/images/taic_logo.jpeg' | relative_url }}" alt="TAIC Logo" style="height: 150px;"> <!-- Adjust the height as needed -->
+    </a>
 
     <nav class="site-nav">
       <span class="menu-icon">
