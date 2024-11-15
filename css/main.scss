@@ -36,6 +36,10 @@ $background-color: #fdfdfd !default;
   margin: 0 10px; /* Space between links */
 }
 
+.itasec-link {
+  text-decoration: underline;
+}
+
 /* Remove default link styles on hover (optional) */
 .site-nav .page-link:hover {
   text-decoration: underline;

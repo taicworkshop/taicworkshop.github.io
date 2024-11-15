@@ -6,7 +6,8 @@ layout: page
 ---
 <img src="{{ '/images/mm_homepage.png' | relative_url }}" alt="Full-width image" style="width: 100%; height: auto; display: block;">
 
-## TAIC Workshop, Co-located with [ITASEC25](https://itasec.it/)
+## TAIC Workshop, Co-located with <a href="https://itasec.it/" class="itasec-link">ITASEC25</a>
+
 Welcome to the Trustworthy AI for Cybersecurity (TAIC) workshop webpage, which hosts all the info and news needed for the workshop. 
 
 <br>
