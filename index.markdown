@@ -41,42 +41,42 @@ Through these two separate yet affine aspects, our goal is to foster a unified d
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/giorgio.jpeg' | relative_url }}" alt="Giorgio Piras" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
-      <span>Giorgio Piras</span><br>
+      <a href="https://www.saiferlab.ai/people/giorgiopiras/" target="_blank">Giorgio Piras</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
     </p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/emanuele.jpg' | relative_url }}" alt="Emanuele Iannone" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
-      <span>Emanuele Iannone</span><br>
+      <a href="https://emaiannone.github.io/" target="_blank">Emanuele Iannone</a><br>
       <span style="font-size: 0.8em; font-style: italic;">Hamburg University of Technology (TUHH)</span>
     </p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/maura.jpg' | relative_url }}" alt="Maura Pintor" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
-      <span>Maura Pintor</span><br>
+      <a href="https://www.saiferlab.ai/people/maurapintor/" target="_blank">Maura Pintor</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
     </p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/katja.jpeg' | relative_url }}" alt="Katja Tuma" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
-      <span>Katja Tuma</span><br>
+      <a href="https://katjatuma.github.io/" target="_blank">Katja Tuma</a><br>
       <span style="font-size: 0.8em; font-style: italic;">Vrije Universiteit (VU)</span>
     </p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/battista.jpeg' | relative_url }}" alt="Battista Biggio" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
-      <span>Battista Biggio</span><br>
+      <a href="https://www.saiferlab.ai/people/battistabiggio/" target="_blank">Battista Biggio</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
     </p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/fabio.jpg' | relative_url }}" alt="Fabio Massacci" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
-      <span>Fabio Massacci</span><br>
+      <a href="https://fabiomassacci.github.io/" target="_blank">Fabio Massacci</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Trento (UNITN)</span><br>
       <span style="font-size: 0.8em; font-style: italic;">Vrije Universiteit (VU)</span>
     </p>
