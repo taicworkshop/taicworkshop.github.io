@@ -13,7 +13,6 @@ Welcome to the Trustworthy AI for Cybersecurity (TAIC) workshop webpage, which h
 <br>
 ## Important Dates 
 * December 9, 2024: Deadline for Workshop Paper Submission
-* December 9, 2024: Deadline for Workshop Paper Submission
 * January 3, 2025: Author Notification
 * February 3-8, 2025: Conference (TAIC workshop day yet to be decided)  
 * February 20, 2025: Camera-ready deadline
