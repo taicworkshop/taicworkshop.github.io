@@ -40,7 +40,7 @@ Through these two separate yet affine aspects, our goal is to foster a unified d
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/giorgio.jpeg' | relative_url }}" alt="Giorgio Piras" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
-      <a href="https://www.saiferlab.ai/people/giorgiopiras/" target="_blank">Giorgio Piras</a><br>
+      <a href="https://giorgiopiras.github.io/" target="_blank">Giorgio Piras</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
     </p>
   </div>
@@ -54,7 +54,7 @@ Through these two separate yet affine aspects, our goal is to foster a unified d
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/maura.jpg' | relative_url }}" alt="Maura Pintor" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
-      <a href="https://www.saiferlab.ai/people/maurapintor/" target="_blank">Maura Pintor</a><br>
+      <a href="https://maurapintor.github.io/" target="_blank">Maura Pintor</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
     </p>
   </div>
