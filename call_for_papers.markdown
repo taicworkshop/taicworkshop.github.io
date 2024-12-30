@@ -67,4 +67,13 @@ For any question, or info, please contact Giorgio Piras at: [giorgio.piras@unica
 
 ## Program Committee
 
-To be announced soon.
+Dario Di Nucci (University of Salerno) <br>
+Francesco Villani (University of Genova) <br>
+Giuseppe Floris (University of Cagliari) <br>
+Jordan Samhi (University of Luxembourg)<br>
+Lorenzo Cazzaro (University of Venezia, Ca' Foscari)<br>
+Luca Demetrio (University of Genova) <br>
+Luca Scionis (University of Cagliari)  <br>
+Maxime Cordy (University of Luxembourg) <br>
+Raffaele Mura (University of Cagliari)<br>
+
