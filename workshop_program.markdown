@@ -6,4 +6,69 @@ nav: true
 ---
 <img src="{{ '/images/mm_wp.png' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
 
-To be announced soon.
+# Workshop Program
+
+**Where**: UNIBO Aula Studio / Plesso Belmeloro: Room Q  
+**When**: Monday, February 3rd, 14:30-18:30  
+
+## Schedule
+
+### 14:30-14:45  
+**Workshop Opening and Greetings**
+
+---
+
+### 14:45-15:40  
+**Invited Guest Talk**  
+**Speaker**: Giuseppina Andresini  
+**Title**: *“Explainability to Foster Transparency and Trust in AI-powered Cybersecurity”*
+
+---
+
+### 15:40-16:00  
+**Paper Presentation**  
+**Title**: *“Deep Generative Models As An Adversarial Attack Strategy For Tabular Machine Learning”*  
+**Authors**: Salijona Dyrmishi, Mihaela Cătălina Stoian, Eleonora Giunchiglia, and Maxime Cordy  
+**Presented by**: Maxime Cordy
+
+---
+
+### 16:00-16:15  
+**Break**
+
+---
+
+### 16:15-16:35  
+**Paper Presentation**  
+**Title**: *“RobustBlack: Challenging Black-Box Adversarial Attacks on State-of-the-Art Defenses”*  
+**Authors**: Mohamed Djilani, Salah Ghamizi, and Maxime Cordy  
+**Presented by**: Mohamed Djilani
+
+---
+
+### 16:35-16:55  
+**Paper Presentation**  
+**Title**: *“Verifiable Boosted Tree Ensembles”*  
+**Authors**: Stefano Calzavara, Lorenzo Cazzaro, Claudio Lucchese, and Giulio Ermanno Pibiri  
+**Presented by**: Lorenzo Cazzaro
+
+---
+
+### 16:55-17:15  
+**Paper Presentation**  
+**Title**: *“TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases”*  
+**Authors**: Thibault Simonetto, Salah Ghamizi, and Maxime Cordy  
+**Presented by**: Maxime Cordy
+
+---
+
+### 17:15-17:35  
+**Invited Student Talk**  
+**Speaker**: Maria Camporese
+**Title**: *“Using ML filters to help automated vulnerability repairs: when it helps and when it doesn’t“*
+
+---
+
+### 17:35-17:45  
+**Workshop Closing Remarks**
+
