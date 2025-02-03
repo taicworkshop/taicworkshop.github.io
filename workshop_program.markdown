@@ -69,7 +69,7 @@ The talk will provide an exploration of XAI methods recently used in cybersecuri
 
 ### 17:15-17:35  
 **Invited Student Talk**  
-**Speaker**: Maria Camporese
+**Speaker**: Maria Camporese \
 **Title**: *“Using ML filters to help automated vulnerability repairs: when it helps and when it doesn’t“*
 
 ---
