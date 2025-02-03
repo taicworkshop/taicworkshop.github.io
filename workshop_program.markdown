@@ -23,6 +23,11 @@ nav: true
 **Speaker**: Giuseppina Andresini  
 **Title**: *“Explainability to Foster Transparency and Trust in AI-powered Cybersecurity”*
 
+**Abstract**: Considering the acceleration of digital transformation, the need to protect private and public organisations from cyber-threats has never been more critical. Artificial Intelligence (AI), particularly Deep Learning, is proven to be very effective in mitigating cyber-threat risks caused by network intrusions, malware or spam. However,  Deep Learning techniques train accurate classification models that are typically ``black boxes'', while explainable AI decisions can increase security stakeholder confidence. 
+On the other hand, the emerging Symbiotic AI paradigm is contributing to the development of eXplainable AI (XAI) systems whose decisions are achieved in symbiosis with humans to mitigate errors, identify biases, and ensure fairness and transparency.
+The talk will provide an exploration of XAI methods recently used in cybersecurity literature to foster transparency and trust in AI-powered cybersecurity systems by improving the reliability and robustness of AI models, especially in scenarios involving imbalanced data, concept drift, and adversarial attacks. 
+
+
 ---
 
 ### 15:40-16:00  
