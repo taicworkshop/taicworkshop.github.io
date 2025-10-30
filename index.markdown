@@ -66,7 +66,7 @@ Through these two separate yet affine aspects, our goal is to foster a unified d
     </p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
-    <img src="{{ '/images/luca.jpg' | relative_url }}" alt="Luca Demetrio" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
+    <img src="{{ '/images/luca.jpeg' | relative_url }}" alt="Luca Demetrio" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
       <a href="https://katjatuma.github.io/" target="_blank">Luca Demetrio</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Genova (UNIGE)</span>
