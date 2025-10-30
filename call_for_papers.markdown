@@ -4,7 +4,7 @@ title: Call For Papers
 permalink: /CFP/
 nav: true
 ---
-<img src="{{ '/images/cagliari.webp' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
+<img src="{{ '/images/cagliari.png' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
 
 <br>
 
