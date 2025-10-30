@@ -35,7 +35,6 @@ Through these two separate yet affine aspects, our goal is to foster a unified d
 ## Workshop Organization
 
 <br>
-### Workshop Organizers:
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/giorgio.jpeg' | relative_url }}" alt="Giorgio Piras" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
