@@ -4,7 +4,7 @@
 title: Homepage
 layout: page
 ---
-<img src="{{ '/images/cagliari.webp' | relative_url }}" alt="Full-width image" style="width: 100%; height: auto; display: block;">
+<img src="{{ '/images/cagliari.png' | relative_url }}" alt="Full-width image" style="width: 100%; height: auto; display: block;">
 
 ## TAIC Workshop, Co-located with <a href="https://itasec.it/" class="itasec-link">ITASEC26</a>
 
