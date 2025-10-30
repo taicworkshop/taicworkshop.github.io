@@ -4,9 +4,12 @@ title: Workshop Program
 permalink: /Program/
 nav: true
 ---
-<img src="{{ '/images/mm_wp.png' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
+<img src="{{ '/images/cagliari.webp' | relative_url }}" alt="Full-width image" style="width: 100vw; height: auto; display: block;">
 
 # Workshop Program
+To be announced.
+<!---
+
 
 **Where**: UNIBO Aula Studio / Plesso Belmeloro: Room Q  
 **When**: Monday, February 3rd, 14:30-18:30  
@@ -76,4 +79,4 @@ The talk will provide an exploration of XAI methods recently used in cybersecuri
 
 ### 17:35-17:45  
 **Workshop Closing Remarks**
-
+-->
