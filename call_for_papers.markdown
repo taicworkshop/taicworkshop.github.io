@@ -42,10 +42,9 @@ Papers must be in English, formatted in pdf according to the ITASEC conference t
 <br>
 
 ## Submission Website 
-To be announced.
-<!---
-Submission Link: [https://easychair.org/conferences/?conf=taic25](https://easychair.org/conferences/?conf=taic25)
--->
+
+Submission Link: [https://easychair.org/conferences/?conf=taic26](https://easychair.org/conferences/?conf=taic26)
+
 <br>
 
 ## Workshop Chairs  
