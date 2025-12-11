@@ -10,8 +10,8 @@ nav: true
 
 ## Important Dates
 
-* December 12 ~~December 5~~, 2025: Deadline for Workshop Paper Submission
-* December 20, 2025: Author Notification
+* December 18 ~~December 5~~: Deadline for Workshop Paper Submission
+* January 5, 2025: Author Notification
 * January 10, 2026: Deadline for Final Paper Submission
 * February 9, 2026: Workshop Day
 
